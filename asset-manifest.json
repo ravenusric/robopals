@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/robopals/static/css/main.35215672.chunk.css",
+    "main.js": "/robopals/static/js/main.a1284df8.chunk.js",
+    "main.js.map": "/robopals/static/js/main.a1284df8.chunk.js.map",
+    "runtime~main.js": "/robopals/static/js/runtime~main.1d0bf8ea.js",
+    "runtime~main.js.map": "/robopals/static/js/runtime~main.1d0bf8ea.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robopals/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/robopals/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/robopals/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/robopals/index.html",
+    "precache-manifest.12489db658656d648636d1e77a8a76b9.js": "/robopals/precache-manifest.12489db658656d648636d1e77a8a76b9.js",
+    "service-worker.js": "/robopals/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robopals/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.35215672.chunk.css.map": "/robopals/static/css/main.35215672.chunk.css.map",
+    "static/media/App.css": "/robopals/static/media/MR ROBOT.86c545cc.woff"
+  }
+}
